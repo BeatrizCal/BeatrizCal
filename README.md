@@ -38,6 +38,6 @@ Frontend development of an mobile app using Flutter
 
 
 <p float="left">
-  <img src="meme.jpg" height="400" />
-  <img src="img.gif" height="400" /> 
+  <img src="meme.jpg" height="200" />
+  <img src="img.gif" height="200" /> 
 </p>
