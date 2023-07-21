@@ -33,8 +33,8 @@ Frontend development of an mobile app using Flutter
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ### ⚡ Fun facts: 
-- I'm really good at Tetris
-- Love playing the guitar (and soon enough the drums) 🤟
+- I'm good at Tetris
+- Love playing the guitar and drums 🤟
 
 
 <p float="left">
