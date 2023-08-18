@@ -3,7 +3,7 @@
 I'm getting my Master Degree in **Computer Science and Engineering @ Universidade da Beira Inteiror in Portugal**. You can find more info about me here: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-caldeira1/)
 
 ### 🔭 I’m currently working on:
-Frontend development of an mobile app using Flutter
+Learning React and my Master thesis
 
 ### 📜 My favourite languages:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
